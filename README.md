@@ -1,4 +1,4 @@
-# MediKiosk (मेडीकियोस्क) — AI-Powered Multilingual Clinical History & Case-Taking Kiosk
+# MediKiosk  — AI-Powered Multilingual Clinical History & Case-Taking Kiosk
 
 > **Smart India Hackathon (SIH) | Problem Statement: SIH26047**  
 > **Domain**: MedTech / Digital Health / Ayushman Bharat Digital Mission (ABDM)  
