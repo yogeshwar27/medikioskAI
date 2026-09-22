@@ -1,0 +1,10 @@
+{
+  "name": "Remix Medikiosk - AI-Powered Clinical History Kiosk",
+  "description": "AI-powered patient case-taking kiosk for hospital OPDs with ABHA identity, multilingual voice/touch intake, prescription \u0026 lab records OCR, red-flag emergency triage, and clinical synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
